@@ -37,6 +37,7 @@ constraints:
 
 Try not to view this until you've developed your own solution:
 
+-   [Binary to decimal conversion App](https://maiam.github.io/Bin2Dec-AppIdeas/)
 -   [Binary to decimal conversion program for beginners](https://www.youtube.com/watch?v=YMIALQE26KQ)
 -   [Binary to Decimal converter using React](https://github.com/email2vimalraj/Bin2Dec)
 -   [Binary to Decimal converter with plain html, js and css](https://grfreire.github.io/Bin2Dec/)
